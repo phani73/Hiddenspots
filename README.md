@@ -38,6 +38,8 @@ npm install
 
 cd ../backend  # For backend
 npm install
+
+The drive link contains the overall world of the project with the video:https://drive.google.com/file/d/1oZ6sFY3yuZq_MTZZyzAMMHPjG2A8fMYK/view?usp=sharing
 cd backend
 node server.js
 cd ../project
